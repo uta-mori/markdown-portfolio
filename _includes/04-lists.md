@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- 好きなもの
+  - ハリボー
+- 嫌いなもの
+　- コロログミ
